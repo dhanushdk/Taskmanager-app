@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "vite": "^5.1.2"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "task-manager-app "
+}
